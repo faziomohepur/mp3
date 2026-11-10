@@ -5,11 +5,11 @@
 	"r2_buckets": [
 		{
 			"binding": "MUSIC_BUCKET",
-			"bucket_name": "nhac-mp3"
+			"bucket_name": "mp3"
 		},
 		{
-			"bucket_name": "nhac-mp3",
-			"binding": "nhac_mp3",
+			"bucket_name": "mp3",
+			"binding": "mp3",
 			"remote": true
 		}
 	]
